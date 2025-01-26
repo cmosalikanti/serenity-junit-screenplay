@@ -10,6 +10,14 @@
 5. Plugin - 'serenity-maven-plugin' - for generating the reports
 6. Maven wrapper so prior maven set-up is not needed
 
+## How to run ?
+1.  Clone the project
+2.  Run the below command
+
+````
+./mvnw clean verify
+````
+
 ## Serenity Screenplay Pattern
 
 The goal of the Screenplay pattern is to help you write cleaner, more readable, more maintainable test automation code
